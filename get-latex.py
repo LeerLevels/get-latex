@@ -1,3 +1,5 @@
+import math
+
 def getLatex(input, custom_options={}):
 
   def getNonScientific(input, options):
